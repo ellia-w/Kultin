@@ -1,0 +1,11 @@
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\bin\Debug\Konverter.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\bin\Debug\Konverter.exe
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\bin\Debug\Konverter.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.Konverter.resources
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.exe
+F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.pdb

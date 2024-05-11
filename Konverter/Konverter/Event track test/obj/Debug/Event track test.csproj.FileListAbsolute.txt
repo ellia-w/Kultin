@@ -1,0 +1,11 @@
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\bin\Debug\Event track test.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\bin\Debug\Event track test.exe
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\bin\Debug\Event track test.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event_track_test.Form1.resources
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event_track_test.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.exe
+F:\CSharp\Kultin\Konverter\Konverter\Event track test\obj\Debug\Event track test.pdb

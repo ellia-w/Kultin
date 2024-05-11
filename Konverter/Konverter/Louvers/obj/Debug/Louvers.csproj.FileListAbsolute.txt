@@ -1,0 +1,11 @@
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.Form1.resources
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\bin\Debug\Louvers.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\bin\Debug\Louvers.exe
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\bin\Debug\Louvers.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.exe
+F:\CSharp\Kultin\Konverter\Konverter\Louvers\obj\Debug\Louvers.pdb

@@ -1,0 +1,15 @@
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric_Energy.Form1.resources
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric_Energy.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\bin\Debug\Electric Energy.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\bin\Debug\Electric Energy.exe
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\bin\Debug\Electric Energy.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.exe
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\bin\Debug\Electric Energy.exe.manifest
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\bin\Debug\Electric Energy.application
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.exe.manifest
+F:\CSharp\Kultin\Konverter\Konverter\Electric Energy\obj\Debug\Electric Energy.application

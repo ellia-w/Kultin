@@ -1,0 +1,11 @@
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\bin\Debug\GasStation.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\bin\Debug\GasStation.exe
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\bin\Debug\GasStation.pdb
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.Form1.resources
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.exe
+F:\CSharp\Kultin\Konverter\Konverter\GasStation\obj\Debug\GasStation.pdb

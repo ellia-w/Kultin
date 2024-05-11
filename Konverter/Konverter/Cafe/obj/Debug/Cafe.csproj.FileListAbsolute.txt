@@ -1,0 +1,11 @@
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\bin\Debug\Cafe.exe.config
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\bin\Debug\Cafe.exe
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\bin\Debug\Cafe.pdb
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.csproj.SuggestedBindingRedirects.cache
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.Form1.resources
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.exe
+F:\CSharp\Kultin\Konverter\Konverter\Cafe\obj\Debug\Cafe.pdb
