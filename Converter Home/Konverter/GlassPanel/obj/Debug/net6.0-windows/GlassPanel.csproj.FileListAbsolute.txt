@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\bin\Debug\net6.0-windows\GlassPanel.exe
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\bin\Debug\net6.0-windows\GlassPanel.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\bin\Debug\net6.0-windows\GlassPanel.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\bin\Debug\net6.0-windows\GlassPanel.dll
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\bin\Debug\net6.0-windows\GlassPanel.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.dll
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\refint\GlassPanel.dll
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\GlassPanel.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\GlassPanel\obj\Debug\net6.0-windows\ref\GlassPanel.dll
