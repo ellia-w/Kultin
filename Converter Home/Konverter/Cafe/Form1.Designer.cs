@@ -50,7 +50,7 @@
             // 
             this.label2.Location = new System.Drawing.Point(125, 30);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(208, 57);
+            this.label2.Size = new System.Drawing.Size(147, 57);
             this.label2.TabIndex = 1;
             this.label2.Paint += new System.Windows.Forms.PaintEventHandler(this.label2_Paint);
             // 
@@ -112,7 +112,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(503, 450);
+            this.ClientSize = new System.Drawing.Size(284, 242);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.checkBox4);
             this.Controls.Add(this.checkBox3);
