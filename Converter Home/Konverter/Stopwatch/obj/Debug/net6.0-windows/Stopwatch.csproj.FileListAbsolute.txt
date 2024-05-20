@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.exe
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.dll
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\bin\Debug\net6.0-windows\Stopwatch.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.dll
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\refint\Stopwatch.dll
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\Stopwatch.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\Stopwatch\obj\Debug\net6.0-windows\ref\Stopwatch.dll
