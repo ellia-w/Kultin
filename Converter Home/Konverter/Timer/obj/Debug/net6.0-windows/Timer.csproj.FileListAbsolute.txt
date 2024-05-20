@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\Timer\bin\Debug\net6.0-windows\Timer.exe
+D:\Studing\Kultin\Converter Home\Konverter\Timer\bin\Debug\net6.0-windows\Timer.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\Timer\bin\Debug\net6.0-windows\Timer.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\Timer\bin\Debug\net6.0-windows\Timer.dll
+D:\Studing\Kultin\Converter Home\Konverter\Timer\bin\Debug\net6.0-windows\Timer.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.dll
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\refint\Timer.dll
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\Timer.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\Timer\obj\Debug\net6.0-windows\ref\Timer.dll
