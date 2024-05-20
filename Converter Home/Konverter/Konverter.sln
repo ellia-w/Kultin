@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{7029A29C-CE3C-4848-A421-7727F3FE3072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{A8025FFC-850D-49A5-A757-CC320DA99381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7029A29C-CE3C-4848-A421-7727F3FE3072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7029A29C-CE3C-4848-A421-7727F3FE3072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7029A29C-CE3C-4848-A421-7727F3FE3072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8025FFC-850D-49A5-A757-CC320DA99381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8025FFC-850D-49A5-A757-CC320DA99381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8025FFC-850D-49A5-A757-CC320DA99381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8025FFC-850D-49A5-A757-CC320DA99381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

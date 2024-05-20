@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\bin\Debug\net6.0-windows\GuessTheNumber.exe
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\bin\Debug\net6.0-windows\GuessTheNumber.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\bin\Debug\net6.0-windows\GuessTheNumber.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\bin\Debug\net6.0-windows\GuessTheNumber.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\bin\Debug\net6.0-windows\GuessTheNumber.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\refint\GuessTheNumber.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\GuessTheNumber.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumber\obj\Debug\net6.0-windows\ref\GuessTheNumber.dll

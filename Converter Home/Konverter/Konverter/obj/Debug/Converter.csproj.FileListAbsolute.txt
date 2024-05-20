@@ -9,3 +9,14 @@ F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.Genera
 F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
 F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.exe
 F:\CSharp\Kultin\Konverter\Konverter\Konverter\obj\Debug\Konverter.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\bin\Debug\Konverter.exe.config
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\bin\Debug\Konverter.exe
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\bin\Debug\Konverter.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Converter.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Konverter.Konverter.resources
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Konverter.Properties.Resources.resources
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Converter.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Konverter.exe
+D:\Studing\Kultin\Converter Home\Konverter\Konverter\obj\Debug\Konverter.pdb
