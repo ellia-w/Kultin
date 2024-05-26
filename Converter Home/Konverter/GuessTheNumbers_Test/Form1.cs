@@ -12,6 +12,7 @@ namespace GuessTheNumbers_Test
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             if (!timer1.Enabled)
             {
                 Random rnd = new Random();
@@ -26,12 +27,17 @@ namespace GuessTheNumbers_Test
                 t = 0;
                 s = 0;
                 textBox1.Text = string.Empty;
+                label5.Text = textBox1.Text;
                 button1.Text = "Stop";
 
-                textBox1.Select();
+                //textBox1.Focus();
+
+                
 
                 groupBox1.Enabled = true;
                 timer1.Enabled = true;
+                
+                textBox1.Select();
 
 
             }
@@ -40,6 +46,7 @@ namespace GuessTheNumbers_Test
                 timer1.Enabled = false;
                 groupBox1.Enabled = false;
                 textBox1.Text = string.Empty;
+                label5.Text = textBox1.Text;
                 button1.Text = "Start";
                 label2.Text = "Guessed numbers: 0";
                 label3.Text = "Digits on right positions: 0";
@@ -53,12 +60,13 @@ namespace GuessTheNumbers_Test
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             Boolean[] r = new Boolean[CN];
-            int pn = 0,
-                rn = 0;
+            int pn = 0, //number position
+                rn = 0; //right numbers
             if (Char.IsDigit(e.KeyChar) || Char.IsControl(e.KeyChar))
             {
-                if (e.KeyChar.Equals(Keys.Enter))
-                {
+                
+                if (e.KeyChar.Equals((char)Keys.Enter))
+                {                    
                     t++;
 
                     StatusPanel1.Text = "Tries: " + t.ToString();
@@ -69,8 +77,7 @@ namespace GuessTheNumbers_Test
                     {
                         for (int j = 0; j < CN; j++)
                         {
-                            if ((Convert.ToInt16(textBox1.Text.Substring(i, 1)) == n[j])
-                                && !r[j])
+                            if ((Convert.ToInt16(textBox1.Text.Substring(i, 1)) == n[j]) && !r[j])
                             {
                                 rn++;
                                 r[j] = true;
@@ -91,6 +98,11 @@ namespace GuessTheNumbers_Test
                         timer1.Enabled = false;
                         groupBox1.Enabled = false;
 
+                        //if (s > 60)
+                        //{
+
+                        //}
+
                         MessageBox.Show("You right!\n" +
                             "The number is: " + textBox1.Text +
                             "\nTries realize: " + t.ToString() +
@@ -98,6 +110,7 @@ namespace GuessTheNumbers_Test
                             MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                         textBox1.Text = string.Empty;
+                        label5.Text = textBox1.Text;
                         button1.Text = "Start";
 
                         label2.Text = "Guessed numbers: 0";
@@ -105,6 +118,14 @@ namespace GuessTheNumbers_Test
 
                         StatusPanel1.Text = "Tries: 0";
                         StatusPanel2.Text = "Time: 0 s";
+                        label6.Visible = true;
+                        label7.Text = "Tries realize: " + t.ToString() + "\nSpent time: " + s.ToString() + "s";
+                    }
+                    if (textBox1.Text.Length == 3)
+                    {
+                        label5.Text = textBox1.Text;
+                        textBox1.Text = string.Empty;
+
                     }
                 }
             }
@@ -117,10 +138,16 @@ namespace GuessTheNumbers_Test
 
         }
 
-        private void timer1_TimerTick(object sender, EventArgs e)
+        //private void timer1_TimerTick(object sender, EventArgs e)
+        //{
+        //    s++;
+        //    StatusPanel2.Text = "Time: " + s.ToString() + "s";
+        //}
+
+        private void timer1_Tick(object sender, EventArgs e)
         {
             s++;
-            StatusPanel1.Text = "Time: " + s.ToString() + "s";
+            StatusPanel2.Text = "Time: " + s.ToString() + "s";
         }
 
         public Form1()
