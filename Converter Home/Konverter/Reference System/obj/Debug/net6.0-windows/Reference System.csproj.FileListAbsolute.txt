@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\bin\Debug\net6.0-windows\Reference System.exe
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\bin\Debug\net6.0-windows\Reference System.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\bin\Debug\net6.0-windows\Reference System.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\bin\Debug\net6.0-windows\Reference System.dll
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\bin\Debug\net6.0-windows\Reference System.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference_System.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.dll
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\refint\Reference System.dll
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\Reference System.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\Reference System\obj\Debug\net6.0-windows\ref\Reference System.dll

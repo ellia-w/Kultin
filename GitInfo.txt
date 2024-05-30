@@ -1,0 +1,27 @@
+git reset --hard origin/master - discard any changes localy and pulls last push from origin
+
+git init
+ 
+git status 
+
+git log 
+
+Q to quit if needed
+
+git push origin master
+
+git pull origin master
+
+git fetch --all ???
+
+git commit -m "any commit text"
+
+git switch
+
+git switch -
+
+git checkout #commit hash or name?
+
+git branch # hash?
+
+
