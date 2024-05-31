@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\bin\Release\net6.0-windows\GuessTheNumbers_Test.exe
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\bin\Release\net6.0-windows\GuessTheNumbers_Test.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\bin\Release\net6.0-windows\GuessTheNumbers_Test.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\bin\Release\net6.0-windows\GuessTheNumbers_Test.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\bin\Release\net6.0-windows\GuessTheNumbers_Test.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\refint\GuessTheNumbers_Test.dll
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.pdb
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\GuessTheNumbers_Test.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\GuessTheNumbers_Test\obj\Release\net6.0-windows\ref\GuessTheNumbers_Test.dll

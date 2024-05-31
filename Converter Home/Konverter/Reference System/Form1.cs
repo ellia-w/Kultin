@@ -6,6 +6,8 @@ namespace Reference_System
         {
             InitializeComponent();
 
+            //helpProvider1.SetHelpString(textBox1, "this is text box 1");
+
             helpProvider1.HelpNamespace = "usdToUah.chm";
 
             helpProvider1.SetHelpKeyword(this, "usdToUah_01.htm");
@@ -67,13 +69,37 @@ namespace Reference_System
 
                 uah = usd * k;
 
+                label3.Text = usd.ToString("N") + " USD = " + uah.ToString("C");
+
 
             }
-            catch (Exception)
+            catch
             {
+                if (textBox1.Text == "" || textBox2.Text == "")
+                {
+                    MessageBox.Show("Error input data.\n" +
+                        "Both fields must be filled.", "Converter",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-                throw;
+                }
+                else
+                {
+                    MessageBox.Show("Error input data.\n+" +
+                        "Incorrect data format in one of the fields", "Converter",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, helpProvider1.HelpNamespace, "usdToUah_01.htm");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            helpProvider1.SetHelpString(textBox1, "this is text box 1");
         }
     }
 }

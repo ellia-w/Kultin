@@ -57,6 +57,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Reference";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label1
             // 
@@ -95,19 +96,27 @@
             // 
             // textBox1
             // 
+            this.helpProvider1.SetHelpString(this.textBox1, "Enter the street address in this text box.");
             this.textBox1.Location = new System.Drawing.Point(138, 6);
             this.textBox1.Name = "textBox1";
+            this.helpProvider1.SetShowHelp(this.textBox1, true);
             this.textBox1.Size = new System.Drawing.Size(110, 23);
             this.textBox1.TabIndex = 6;
             this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // textBox2
             // 
+            this.helpProvider1.SetHelpString(this.textBox2, "Enter the street address in this text box.");
             this.textBox2.Location = new System.Drawing.Point(138, 35);
             this.textBox2.Name = "textBox2";
+            this.helpProvider1.SetShowHelp(this.textBox2, true);
             this.textBox2.Size = new System.Drawing.Size(110, 23);
             this.textBox2.TabIndex = 7;
             this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
+            // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "D:\\Studing\\Kultin\\Help\\usdToUah.chm";
             // 
             // Form1
             // 
@@ -122,8 +131,16 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.HelpButton = true;
+            this.KeyPreview = true;
+            this.MdiChildrenMinimizedAnchorBottom = false;
             this.Name = "Form1";
+            this.helpProvider1.SetShowHelp(this, true);
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Converter";
+            this.TopMost = true;
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

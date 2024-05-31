@@ -1,0 +1,2 @@
+d:\Studing\Kultin\GuessTheNumbers_Test.pdb
+d:\Studing\Kultin\GuessTheNumbers_Test.exe

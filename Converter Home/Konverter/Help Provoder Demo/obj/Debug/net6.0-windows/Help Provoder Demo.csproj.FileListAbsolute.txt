@@ -1,0 +1,17 @@
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.AssemblyReference.cache
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.GenerateResource.cache
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.AssemblyInfoInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.AssemblyInfo.cs
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.CoreCompileInputs.cache
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help_Provoder_Demo.Form1.resources
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.exe
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.deps.json
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.runtimeconfig.json
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.dll
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.dll
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\refint\Help Provoder Demo.dll
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.pdb
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.genruntimeconfig.cache
+D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\ref\Help Provoder Demo.dll
