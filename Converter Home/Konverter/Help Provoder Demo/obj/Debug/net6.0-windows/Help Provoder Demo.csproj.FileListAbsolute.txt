@@ -15,3 +15,20 @@ D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-w
 D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.pdb
 D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.genruntimeconfig.cache
 D:\Studing\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\ref\Help Provoder Demo.dll
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.exe
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.deps.json
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.runtimeconfig.json
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.dll
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\bin\Debug\net6.0-windows\Help Provoder Demo.pdb
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.AssemblyReference.cache
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help_Provoder_Demo.Form1.resources
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.GenerateResource.cache
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.AssemblyInfoInputs.cache
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.AssemblyInfo.cs
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.csproj.CoreCompileInputs.cache
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.dll
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\refint\Help Provoder Demo.dll
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.pdb
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\Help Provoder Demo.genruntimeconfig.cache
+F:\CSharp\Kultin\Converter Home\Konverter\Help Provoder Demo\obj\Debug\net6.0-windows\ref\Help Provoder Demo.dll

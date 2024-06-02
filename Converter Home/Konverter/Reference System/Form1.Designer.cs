@@ -96,7 +96,7 @@
             // 
             // textBox1
             // 
-            this.helpProvider1.SetHelpString(this.textBox1, "Enter the street address in this text box.");
+            this.helpProvider1.SetHelpString(this.textBox1, "Enter the street address in this text box 1.");
             this.textBox1.Location = new System.Drawing.Point(138, 6);
             this.textBox1.Name = "textBox1";
             this.helpProvider1.SetShowHelp(this.textBox1, true);
@@ -106,7 +106,7 @@
             // 
             // textBox2
             // 
-            this.helpProvider1.SetHelpString(this.textBox2, "Enter the street address in this text box.");
+            this.helpProvider1.SetHelpString(this.textBox2, "Enter the street address in this text box 2.");
             this.textBox2.Location = new System.Drawing.Point(138, 35);
             this.textBox2.Name = "textBox2";
             this.helpProvider1.SetShowHelp(this.textBox2, true);
@@ -116,7 +116,7 @@
             // 
             // helpProvider1
             // 
-            this.helpProvider1.HelpNamespace = "D:\\Studing\\Kultin\\Help\\usdToUah.chm";
+            this.helpProvider1.HelpNamespace = "";
             // 
             // Form1
             // 
@@ -133,13 +133,13 @@
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.HelpButton = true;
-            this.KeyPreview = true;
+            this.MaximizeBox = false;
             this.MdiChildrenMinimizedAnchorBottom = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.helpProvider1.SetShowHelp(this, true);
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Converter";
-            this.TopMost = true;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
