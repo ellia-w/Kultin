@@ -94,15 +94,17 @@ namespace Reference_System
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, helpProvider1.HelpNamespace, "usdToUah_01.htm");
+            Help.ShowHelp(this, helpProvider1.HelpNamespace, "usdToUah_02.htm");
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            helpProvider1.SetHelpString(textBox1, "this is text box 1");
-            helpProvider1.SetHelpString(textBox2, "this is text box 2");
-            helpProvider1.SetHelpString(button1, "this is button 1");
-            helpProvider1.SetHelpString(button2, "this is button 2");
+            //helpProvider1.SetHelpString(textBox1, "this is text box 1");
+            //helpProvider1.SetHelpString(textBox2, "this is text box 2");
+            //helpProvider1.SetHelpString(button1, "this is button 1");
+            //helpProvider1.SetHelpString(button2, "this is button 2");
         }
+
+        
     }
 }

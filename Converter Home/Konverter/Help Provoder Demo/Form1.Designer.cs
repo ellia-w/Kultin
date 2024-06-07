@@ -104,7 +104,10 @@
             // 
             // helpProvider1
             // 
-            this.helpProvider1.HelpNamespace = "F:\\CSharp\\Kultin\\Help\\usdToUah.chm";
+            //this.helpProvider1.HelpNamespace = "help.html";
+
+            this.helpProvider1.HelpNamespace = "mspaint.chm";
+
             // 
             // Form1
             // 

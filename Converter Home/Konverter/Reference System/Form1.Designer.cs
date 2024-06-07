@@ -37,11 +37,16 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.viewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 61);
+            this.button1.Location = new System.Drawing.Point(12, 91);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(110, 23);
             this.button1.TabIndex = 0;
@@ -51,7 +56,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(138, 61);
+            this.button2.Location = new System.Drawing.Point(138, 91);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(110, 23);
             this.button2.TabIndex = 1;
@@ -62,7 +67,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 14);
+            this.label1.Location = new System.Drawing.Point(12, 44);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(66, 15);
             this.label1.TabIndex = 2;
@@ -71,7 +76,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 43);
+            this.label2.Location = new System.Drawing.Point(12, 73);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(110, 15);
             this.label2.TabIndex = 3;
@@ -80,7 +85,7 @@
             // label3
             // 
             this.label3.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.label3.Location = new System.Drawing.Point(12, 87);
+            this.label3.Location = new System.Drawing.Point(12, 117);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(236, 104);
             this.label3.TabIndex = 4;
@@ -88,7 +93,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 191);
+            this.label4.Location = new System.Drawing.Point(12, 221);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(82, 15);
             this.label4.TabIndex = 5;
@@ -97,7 +102,7 @@
             // textBox1
             // 
             this.helpProvider1.SetHelpString(this.textBox1, "Enter the street address in this text box 1.");
-            this.textBox1.Location = new System.Drawing.Point(138, 6);
+            this.textBox1.Location = new System.Drawing.Point(138, 36);
             this.textBox1.Name = "textBox1";
             this.helpProvider1.SetShowHelp(this.textBox1, true);
             this.textBox1.Size = new System.Drawing.Size(110, 23);
@@ -107,7 +112,7 @@
             // textBox2
             // 
             this.helpProvider1.SetHelpString(this.textBox2, "Enter the street address in this text box 2.");
-            this.textBox2.Location = new System.Drawing.Point(138, 35);
+            this.textBox2.Location = new System.Drawing.Point(138, 65);
             this.textBox2.Name = "textBox2";
             this.helpProvider1.SetShowHelp(this.textBox2, true);
             this.textBox2.Size = new System.Drawing.Size(110, 23);
@@ -116,13 +121,43 @@
             // 
             // helpProvider1
             // 
-            this.helpProvider1.HelpNamespace = "";
+            this.helpProvider1.HelpNamespace = "mspaint.chm";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fileToolStripMenuItem,
+            this.helpToolStripMenuItem,
+            this.viewToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(269, 24);
+            this.menuStrip1.TabIndex = 8;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // helpToolStripMenuItem
+            // 
+            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+            this.helpToolStripMenuItem.Text = "Help";
+            // 
+            // fileToolStripMenuItem
+            // 
+            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.fileToolStripMenuItem.Text = "File";
+            // 
+            // viewToolStripMenuItem
+            // 
+            this.viewToolStripMenuItem.Name = "viewToolStripMenuItem";
+            this.viewToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+            this.viewToolStripMenuItem.Text = "View";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(269, 215);
+            this.ClientSize = new System.Drawing.Size(269, 290);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label4);
@@ -131,8 +166,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.HelpButton = true;
+            this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
             this.MdiChildrenMinimizedAnchorBottom = false;
             this.MinimizeBox = false;
@@ -141,6 +178,8 @@
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Converter";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -156,6 +195,10 @@
         private Label label4;
         private TextBox textBox1;
         private TextBox textBox2;
-        private HelpProvider helpProvider1;
+        public HelpProvider helpProvider1;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem helpToolStripMenuItem;
+        private ToolStripMenuItem fileToolStripMenuItem;
+        private ToolStripMenuItem viewToolStripMenuItem;
     }
 }
